@@ -1,0 +1,601 @@
+inspection_date,product_family,supplier,production_line,shift,units_inspected,defect_units,defect_category,severity,downtime_minutes
+2025-01-02,Hydraulic Valve,Supplier D,Line 1,Afternoon,430,21,Dimensional,Low,37
+2025-01-03,Hydraulic Valve,Supplier B,Line 1,Night,264,13,Dimensional,Low,37
+2025-01-03,Control Unit,Supplier D,Line 1,Morning,481,9,Assembly,Medium,54
+2025-01-03,Sensor Module,Supplier A,Line 1,Afternoon,231,6,Surface Finish,High,21
+2025-01-04,Sensor Module,Supplier A,Line 1,Night,333,7,Leakage,Medium,19
+2025-01-06,Pump Assembly,Supplier A,Line 1,Morning,279,19,Surface Finish,Low,94
+2025-01-07,Hydraulic Valve,Supplier A,Line 3,Afternoon,303,7,Dimensional,Low,28
+2025-01-07,Control Unit,Supplier A,Line 1,Afternoon,331,7,Assembly,Medium,33
+2025-01-08,Control Unit,Supplier B,Line 1,Night,417,15,Leakage,Low,50
+2025-01-08,Pump Assembly,Supplier A,Line 3,Night,364,7,Leakage,Medium,35
+2025-01-08,Pump Assembly,Supplier A,Line 1,Afternoon,428,28,Assembly,Medium,105
+2025-01-09,Pump Assembly,Supplier A,Line 3,Morning,335,9,Assembly,Low,37
+2025-01-09,Sensor Module,Supplier D,Line 3,Afternoon,253,10,Assembly,Low,27
+2025-01-09,Hydraulic Valve,Supplier E,Line 2,Morning,258,9,Electrical,Low,42
+2025-01-10,Pump Assembly,Supplier B,Line 2,Afternoon,408,17,Dimensional,Medium,68
+2025-01-10,Pump Assembly,Supplier C,Line 1,Afternoon,226,9,Surface Finish,Medium,46
+2025-01-12,Pump Assembly,Supplier C,Line 2,Morning,280,8,Dimensional,Low,24
+2025-01-12,Control Unit,Supplier D,Line 3,Night,416,14,Leakage,Medium,61
+2025-01-13,Sensor Module,Supplier A,Line 3,Night,350,12,Electrical,High,45
+2025-01-14,Hydraulic Valve,Supplier B,Line 3,Night,344,9,Assembly,High,40
+2025-01-14,Hydraulic Valve,Supplier D,Line 1,Morning,168,8,Dimensional,High,37
+2025-01-16,Pump Assembly,Supplier D,Line 1,Night,246,9,Assembly,Low,29
+2025-01-16,Control Unit,Supplier D,Line 2,Morning,151,10,Electrical,Medium,22
+2025-01-16,Pump Assembly,Supplier E,Line 2,Morning,281,10,Assembly,Low,38
+2025-01-17,Sensor Module,Supplier B,Line 1,Morning,475,15,Electrical,Low,65
+2025-01-17,Control Unit,Supplier B,Line 3,Night,271,8,Leakage,Low,50
+2025-01-18,Pump Assembly,Supplier B,Line 3,Morning,219,7,Leakage,Low,48
+2025-01-19,Pump Assembly,Supplier B,Line 3,Night,209,12,Leakage,Medium,28
+2025-01-20,Sensor Module,Supplier B,Line 1,Night,345,3,Electrical,Medium,34
+2025-01-21,Control Unit,Supplier B,Line 3,Morning,324,11,Dimensional,Medium,60
+2025-01-22,Control Unit,Supplier B,Line 1,Afternoon,125,5,Electrical,Medium,26
+2025-01-24,Sensor Module,Supplier B,Line 2,Night,498,25,Electrical,Low,100
+2025-01-24,Control Unit,Supplier A,Line 2,Morning,482,18,Electrical,Low,34
+2025-01-25,Control Unit,Supplier D,Line 2,Afternoon,159,7,Leakage,Medium,27
+2025-01-25,Pump Assembly,Supplier C,Line 3,Morning,460,15,Surface Finish,Low,32
+2025-01-25,Pump Assembly,Supplier B,Line 1,Night,405,19,Assembly,Medium,58
+2025-01-28,Pump Assembly,Supplier A,Line 1,Night,142,6,Dimensional,Medium,43
+2025-01-29,Pump Assembly,Supplier C,Line 3,Afternoon,82,4,Assembly,Medium,22
+2025-01-29,Hydraulic Valve,Supplier B,Line 2,Afternoon,430,18,Assembly,Low,68
+2025-01-30,Pump Assembly,Supplier C,Line 1,Afternoon,473,4,Electrical,Medium,27
+2025-01-31,Pump Assembly,Supplier D,Line 3,Afternoon,185,6,Electrical,Low,37
+2025-01-31,Pump Assembly,Supplier E,Line 1,Night,420,16,Surface Finish,Medium,76
+2025-01-31,Pump Assembly,Supplier A,Line 2,Night,387,11,Leakage,Medium,40
+2025-02-01,Pump Assembly,Supplier A,Line 2,Night,332,7,Electrical,High,21
+2025-02-01,Pump Assembly,Supplier A,Line 1,Morning,153,2,Electrical,Medium,17
+2025-02-02,Pump Assembly,Supplier E,Line 3,Morning,475,21,Electrical,Medium,41
+2025-02-02,Control Unit,Supplier A,Line 1,Night,407,25,Leakage,Medium,65
+2025-02-03,Control Unit,Supplier E,Line 3,Night,400,16,Electrical,Low,65
+2025-02-03,Control Unit,Supplier E,Line 2,Afternoon,158,5,Dimensional,Medium,18
+2025-02-03,Control Unit,Supplier C,Line 1,Afternoon,317,14,Leakage,Low,55
+2025-02-04,Sensor Module,Supplier D,Line 1,Afternoon,457,30,Assembly,High,109
+2025-02-04,Pump Assembly,Supplier D,Line 1,Afternoon,292,10,Surface Finish,Low,30
+2025-02-04,Hydraulic Valve,Supplier E,Line 1,Afternoon,421,8,Assembly,Low,37
+2025-02-04,Pump Assembly,Supplier A,Line 3,Morning,451,20,Assembly,Low,37
+2025-02-05,Control Unit,Supplier D,Line 1,Morning,156,3,Surface Finish,Low,17
+2025-02-05,Control Unit,Supplier D,Line 1,Afternoon,261,6,Surface Finish,Medium,31
+2025-02-06,Hydraulic Valve,Supplier E,Line 3,Morning,370,16,Assembly,Low,33
+2025-02-07,Control Unit,Supplier D,Line 2,Afternoon,112,8,Dimensional,Low,22
+2025-02-07,Pump Assembly,Supplier D,Line 1,Morning,162,9,Dimensional,High,39
+2025-02-08,Sensor Module,Supplier E,Line 3,Morning,166,7,Electrical,High,37
+2025-02-08,Pump Assembly,Supplier E,Line 3,Morning,344,7,Leakage,Low,46
+2025-02-08,Pump Assembly,Supplier E,Line 2,Night,246,8,Electrical,Low,46
+2025-02-08,Sensor Module,Supplier A,Line 2,Morning,489,21,Assembly,Medium,82
+2025-02-09,Pump Assembly,Supplier E,Line 3,Afternoon,148,1,Surface Finish,High,13
+2025-02-09,Pump Assembly,Supplier B,Line 3,Afternoon,477,25,Leakage,Medium,91
+2025-02-09,Sensor Module,Supplier D,Line 3,Afternoon,408,15,Assembly,Medium,31
+2025-02-11,Control Unit,Supplier B,Line 2,Night,105,5,Electrical,Low,22
+2025-02-11,Sensor Module,Supplier C,Line 3,Afternoon,445,18,Electrical,Low,55
+2025-02-12,Pump Assembly,Supplier E,Line 1,Morning,147,5,Electrical,Medium,32
+2025-02-12,Sensor Module,Supplier E,Line 3,Afternoon,135,6,Dimensional,Low,32
+2025-02-13,Hydraulic Valve,Supplier A,Line 2,Morning,123,1,Surface Finish,Low,24
+2025-02-13,Control Unit,Supplier E,Line 3,Morning,421,15,Surface Finish,Low,29
+2025-02-13,Sensor Module,Supplier E,Line 3,Night,471,14,Dimensional,Low,39
+2025-02-14,Pump Assembly,Supplier B,Line 1,Night,183,13,Electrical,Low,68
+2025-02-14,Hydraulic Valve,Supplier E,Line 3,Night,448,17,Dimensional,Low,50
+2025-02-15,Control Unit,Supplier D,Line 2,Afternoon,335,9,Dimensional,Low,55
+2025-02-16,Sensor Module,Supplier B,Line 3,Night,374,16,Assembly,Low,86
+2025-02-16,Sensor Module,Supplier C,Line 3,Night,404,0,Assembly,Low,16
+2025-02-16,Control Unit,Supplier B,Line 1,Morning,170,9,Surface Finish,Low,35
+2025-02-17,Pump Assembly,Supplier A,Line 2,Morning,221,10,Electrical,Low,41
+2025-02-17,Pump Assembly,Supplier E,Line 1,Afternoon,409,17,Assembly,Low,74
+2025-02-18,Sensor Module,Supplier C,Line 3,Morning,271,6,Dimensional,Medium,40
+2025-02-18,Sensor Module,Supplier A,Line 3,Morning,119,3,Leakage,Low,25
+2025-02-21,Control Unit,Supplier C,Line 2,Afternoon,350,6,Electrical,Low,22
+2025-02-21,Hydraulic Valve,Supplier E,Line 3,Morning,477,12,Dimensional,High,66
+2025-02-21,Pump Assembly,Supplier B,Line 3,Morning,194,8,Electrical,High,46
+2025-02-21,Control Unit,Supplier B,Line 1,Night,187,8,Dimensional,Medium,53
+2025-02-21,Sensor Module,Supplier B,Line 1,Morning,167,7,Leakage,Medium,40
+2025-02-21,Control Unit,Supplier A,Line 2,Night,245,11,Assembly,Low,44
+2025-02-22,Hydraulic Valve,Supplier A,Line 1,Night,117,5,Electrical,Low,35
+2025-02-22,Control Unit,Supplier E,Line 1,Afternoon,348,14,Electrical,Low,44
+2025-02-22,Hydraulic Valve,Supplier B,Line 2,Night,159,8,Electrical,Low,24
+2025-02-23,Control Unit,Supplier A,Line 3,Afternoon,219,6,Assembly,Low,32
+2025-02-24,Pump Assembly,Supplier D,Line 2,Morning,395,23,Surface Finish,High,64
+2025-02-25,Hydraulic Valve,Supplier D,Line 2,Afternoon,162,5,Dimensional,High,20
+2025-02-25,Pump Assembly,Supplier C,Line 3,Morning,354,9,Assembly,Medium,52
+2025-02-25,Sensor Module,Supplier C,Line 3,Afternoon,103,3,Surface Finish,Low,30
+2025-02-25,Pump Assembly,Supplier C,Line 3,Night,365,7,Assembly,Low,38
+2025-02-26,Pump Assembly,Supplier B,Line 1,Morning,105,2,Dimensional,Low,21
+2025-02-26,Control Unit,Supplier C,Line 1,Afternoon,111,5,Dimensional,Medium,41
+2025-02-26,Control Unit,Supplier C,Line 3,Morning,142,5,Dimensional,Medium,25
+2025-02-28,Control Unit,Supplier B,Line 2,Afternoon,204,5,Leakage,Low,20
+2025-02-28,Hydraulic Valve,Supplier D,Line 1,Afternoon,135,4,Surface Finish,Low,23
+2025-02-28,Control Unit,Supplier A,Line 1,Night,196,5,Dimensional,High,47
+2025-03-02,Sensor Module,Supplier C,Line 2,Morning,192,6,Surface Finish,Medium,31
+2025-03-02,Hydraulic Valve,Supplier D,Line 1,Afternoon,306,9,Assembly,Medium,44
+2025-03-02,Control Unit,Supplier E,Line 3,Afternoon,110,5,Dimensional,Medium,41
+2025-03-02,Hydraulic Valve,Supplier C,Line 2,Night,246,7,Leakage,Medium,35
+2025-03-02,Hydraulic Valve,Supplier E,Line 3,Morning,408,20,Dimensional,Low,52
+2025-03-02,Pump Assembly,Supplier E,Line 2,Night,402,3,Assembly,Low,26
+2025-03-04,Hydraulic Valve,Supplier C,Line 3,Morning,281,11,Electrical,Low,59
+2025-03-05,Sensor Module,Supplier D,Line 2,Night,109,2,Surface Finish,Low,31
+2025-03-05,Control Unit,Supplier B,Line 3,Morning,317,14,Leakage,Low,62
+2025-03-05,Pump Assembly,Supplier D,Line 1,Night,406,13,Surface Finish,High,61
+2025-03-06,Pump Assembly,Supplier B,Line 1,Afternoon,431,19,Leakage,High,39
+2025-03-07,Pump Assembly,Supplier A,Line 3,Morning,222,5,Electrical,Low,34
+2025-03-07,Control Unit,Supplier E,Line 2,Night,131,4,Leakage,Low,26
+2025-03-07,Sensor Module,Supplier C,Line 1,Morning,300,8,Surface Finish,Medium,52
+2025-03-08,Hydraulic Valve,Supplier A,Line 3,Morning,300,11,Dimensional,Medium,26
+2025-03-08,Pump Assembly,Supplier B,Line 1,Morning,242,14,Electrical,High,39
+2025-03-08,Control Unit,Supplier A,Line 1,Morning,415,17,Dimensional,Low,34
+2025-03-10,Hydraulic Valve,Supplier B,Line 3,Night,145,7,Assembly,Low,26
+2025-03-11,Hydraulic Valve,Supplier B,Line 1,Afternoon,282,9,Leakage,Low,32
+2025-03-12,Hydraulic Valve,Supplier B,Line 1,Night,428,7,Electrical,Low,27
+2025-03-13,Pump Assembly,Supplier C,Line 3,Afternoon,115,3,Electrical,Low,27
+2025-03-13,Hydraulic Valve,Supplier B,Line 3,Night,153,6,Electrical,Low,38
+2025-03-13,Control Unit,Supplier E,Line 2,Afternoon,484,17,Surface Finish,Low,29
+2025-03-14,Hydraulic Valve,Supplier D,Line 3,Afternoon,492,8,Dimensional,Low,31
+2025-03-14,Sensor Module,Supplier C,Line 1,Afternoon,135,5,Electrical,Medium,41
+2025-03-15,Control Unit,Supplier C,Line 3,Night,406,13,Assembly,Low,38
+2025-03-15,Hydraulic Valve,Supplier A,Line 2,Morning,344,11,Electrical,Low,31
+2025-03-15,Control Unit,Supplier C,Line 2,Afternoon,441,18,Dimensional,Medium,54
+2025-03-20,Hydraulic Valve,Supplier B,Line 3,Night,251,9,Dimensional,Medium,32
+2025-03-23,Hydraulic Valve,Supplier C,Line 2,Night,99,4,Assembly,Low,15
+2025-03-24,Pump Assembly,Supplier E,Line 1,Morning,423,17,Surface Finish,Medium,85
+2025-03-24,Hydraulic Valve,Supplier E,Line 2,Afternoon,194,7,Electrical,Low,28
+2025-03-25,Sensor Module,Supplier B,Line 1,Night,257,11,Assembly,Medium,30
+2025-03-25,Control Unit,Supplier D,Line 1,Night,495,14,Electrical,Low,71
+2025-03-26,Pump Assembly,Supplier B,Line 2,Afternoon,409,11,Surface Finish,Low,27
+2025-03-26,Pump Assembly,Supplier E,Line 1,Morning,91,1,Dimensional,Medium,25
+2025-03-27,Control Unit,Supplier E,Line 2,Morning,432,17,Electrical,Low,35
+2025-03-28,Sensor Module,Supplier C,Line 2,Afternoon,227,9,Assembly,Low,37
+2025-03-28,Control Unit,Supplier B,Line 1,Morning,147,6,Electrical,Low,46
+2025-03-28,Sensor Module,Supplier A,Line 2,Afternoon,189,9,Electrical,Low,38
+2025-03-29,Hydraulic Valve,Supplier D,Line 1,Night,494,23,Surface Finish,Low,43
+2025-03-29,Control Unit,Supplier B,Line 3,Morning,105,2,Surface Finish,Low,22
+2025-03-29,Pump Assembly,Supplier D,Line 3,Morning,464,17,Assembly,Medium,67
+2025-03-29,Sensor Module,Supplier C,Line 3,Night,153,6,Dimensional,High,24
+2025-03-31,Hydraulic Valve,Supplier D,Line 2,Night,249,5,Assembly,Low,20
+2025-03-31,Hydraulic Valve,Supplier C,Line 1,Morning,89,1,Leakage,Low,25
+2025-04-01,Hydraulic Valve,Supplier A,Line 3,Afternoon,421,17,Assembly,Low,67
+2025-04-02,Pump Assembly,Supplier B,Line 2,Morning,414,15,Surface Finish,Medium,73
+2025-04-02,Control Unit,Supplier A,Line 1,Afternoon,144,1,Assembly,Medium,17
+2025-04-04,Sensor Module,Supplier C,Line 2,Morning,399,9,Leakage,Low,37
+2025-04-06,Pump Assembly,Supplier C,Line 1,Morning,246,8,Assembly,Low,40
+2025-04-06,Hydraulic Valve,Supplier C,Line 3,Morning,484,14,Dimensional,Low,33
+2025-04-07,Pump Assembly,Supplier D,Line 2,Night,256,11,Assembly,Low,64
+2025-04-08,Control Unit,Supplier A,Line 3,Afternoon,365,12,Leakage,Low,56
+2025-04-08,Pump Assembly,Supplier B,Line 2,Afternoon,275,12,Dimensional,Medium,52
+2025-04-09,Pump Assembly,Supplier B,Line 1,Afternoon,104,5,Leakage,Low,39
+2025-04-10,Hydraulic Valve,Supplier B,Line 3,Morning,191,8,Surface Finish,High,35
+2025-04-11,Control Unit,Supplier E,Line 3,Night,270,5,Leakage,Medium,37
+2025-04-11,Hydraulic Valve,Supplier E,Line 2,Night,87,2,Leakage,Low,14
+2025-04-11,Pump Assembly,Supplier E,Line 1,Afternoon,116,5,Dimensional,Low,18
+2025-04-12,Hydraulic Valve,Supplier B,Line 3,Night,199,7,Dimensional,Low,32
+2025-04-12,Sensor Module,Supplier D,Line 1,Morning,173,5,Assembly,Low,34
+2025-04-12,Control Unit,Supplier A,Line 1,Afternoon,307,13,Dimensional,Medium,27
+2025-04-13,Control Unit,Supplier C,Line 3,Afternoon,83,3,Leakage,Low,32
+2025-04-13,Sensor Module,Supplier E,Line 2,Night,174,5,Dimensional,Medium,38
+2025-04-13,Sensor Module,Supplier D,Line 1,Afternoon,174,6,Leakage,Low,38
+2025-04-14,Sensor Module,Supplier A,Line 2,Night,370,17,Leakage,Medium,66
+2025-04-14,Control Unit,Supplier E,Line 2,Morning,496,19,Assembly,Low,52
+2025-04-14,Sensor Module,Supplier D,Line 1,Night,306,14,Assembly,Low,30
+2025-04-15,Sensor Module,Supplier C,Line 2,Night,288,7,Leakage,Medium,34
+2025-04-16,Hydraulic Valve,Supplier D,Line 1,Morning,470,17,Leakage,Medium,72
+2025-04-16,Pump Assembly,Supplier E,Line 1,Night,396,12,Surface Finish,Low,26
+2025-04-16,Hydraulic Valve,Supplier D,Line 1,Afternoon,416,15,Assembly,Medium,39
+2025-04-17,Sensor Module,Supplier E,Line 1,Morning,208,2,Dimensional,High,14
+2025-04-18,Hydraulic Valve,Supplier C,Line 1,Morning,413,9,Leakage,Low,27
+2025-04-18,Pump Assembly,Supplier A,Line 3,Night,149,1,Dimensional,Low,16
+2025-04-19,Control Unit,Supplier B,Line 1,Night,120,5,Leakage,Low,41
+2025-04-20,Hydraulic Valve,Supplier D,Line 3,Morning,90,3,Surface Finish,Low,25
+2025-04-20,Sensor Module,Supplier A,Line 1,Night,391,16,Dimensional,Low,59
+2025-04-20,Control Unit,Supplier E,Line 2,Morning,124,4,Surface Finish,Low,21
+2025-04-21,Control Unit,Supplier E,Line 2,Night,431,10,Leakage,Low,32
+2025-04-21,Sensor Module,Supplier D,Line 3,Night,196,8,Surface Finish,High,36
+2025-04-21,Hydraulic Valve,Supplier A,Line 3,Morning,86,2,Leakage,Medium,26
+2025-04-22,Pump Assembly,Supplier C,Line 2,Afternoon,404,13,Assembly,Low,58
+2025-04-23,Hydraulic Valve,Supplier E,Line 1,Morning,451,17,Surface Finish,High,53
+2025-04-24,Hydraulic Valve,Supplier C,Line 3,Morning,184,7,Leakage,Medium,39
+2025-04-24,Hydraulic Valve,Supplier E,Line 1,Morning,169,8,Electrical,Low,34
+2025-04-24,Hydraulic Valve,Supplier A,Line 2,Night,383,15,Dimensional,Low,68
+2025-04-25,Pump Assembly,Supplier C,Line 3,Night,214,8,Dimensional,Medium,48
+2025-04-25,Sensor Module,Supplier C,Line 1,Afternoon,154,2,Dimensional,Medium,20
+2025-04-26,Control Unit,Supplier A,Line 1,Morning,101,4,Dimensional,Low,27
+2025-04-26,Control Unit,Supplier B,Line 3,Night,89,3,Leakage,High,29
+2025-04-26,Sensor Module,Supplier E,Line 3,Morning,201,7,Assembly,Low,30
+2025-04-27,Hydraulic Valve,Supplier A,Line 3,Afternoon,145,4,Assembly,Low,23
+2025-04-27,Sensor Module,Supplier C,Line 2,Morning,380,16,Assembly,Medium,45
+2025-04-27,Sensor Module,Supplier D,Line 2,Night,202,8,Assembly,Medium,42
+2025-04-28,Control Unit,Supplier D,Line 2,Night,115,4,Leakage,Low,29
+2025-04-28,Control Unit,Supplier B,Line 3,Morning,395,22,Leakage,High,101
+2025-04-28,Control Unit,Supplier C,Line 3,Morning,184,7,Assembly,Low,26
+2025-04-29,Pump Assembly,Supplier C,Line 1,Afternoon,311,14,Surface Finish,Medium,32
+2025-05-01,Sensor Module,Supplier E,Line 2,Afternoon,236,4,Surface Finish,Low,25
+2025-05-01,Sensor Module,Supplier B,Line 2,Afternoon,125,6,Assembly,Low,19
+2025-05-02,Sensor Module,Supplier E,Line 3,Morning,223,10,Leakage,Medium,59
+2025-05-02,Control Unit,Supplier A,Line 2,Morning,201,9,Dimensional,Medium,32
+2025-05-03,Hydraulic Valve,Supplier A,Line 2,Morning,495,14,Assembly,Low,58
+2025-05-03,Hydraulic Valve,Supplier E,Line 2,Morning,426,8,Leakage,Low,43
+2025-05-04,Pump Assembly,Supplier B,Line 3,Afternoon,492,14,Leakage,Low,41
+2025-05-06,Pump Assembly,Supplier C,Line 2,Morning,174,4,Electrical,Low,28
+2025-05-07,Control Unit,Supplier E,Line 2,Afternoon,277,7,Surface Finish,Medium,45
+2025-05-07,Hydraulic Valve,Supplier E,Line 3,Morning,370,6,Surface Finish,High,29
+2025-05-10,Control Unit,Supplier E,Line 1,Afternoon,302,10,Surface Finish,Low,36
+2025-05-11,Hydraulic Valve,Supplier A,Line 1,Afternoon,427,25,Dimensional,High,114
+2025-05-13,Pump Assembly,Supplier E,Line 3,Afternoon,347,4,Dimensional,Low,21
+2025-05-13,Pump Assembly,Supplier D,Line 1,Afternoon,160,6,Electrical,Low,20
+2025-05-13,Control Unit,Supplier C,Line 1,Afternoon,396,17,Leakage,Low,71
+2025-05-14,Control Unit,Supplier E,Line 3,Morning,467,9,Leakage,Medium,50
+2025-05-14,Hydraulic Valve,Supplier E,Line 2,Afternoon,241,7,Electrical,Medium,34
+2025-05-15,Hydraulic Valve,Supplier B,Line 3,Afternoon,415,18,Leakage,Low,55
+2025-05-16,Sensor Module,Supplier E,Line 2,Afternoon,438,11,Dimensional,Low,34
+2025-05-16,Control Unit,Supplier D,Line 3,Night,376,10,Dimensional,Low,21
+2025-05-16,Pump Assembly,Supplier D,Line 3,Morning,135,3,Surface Finish,Medium,27
+2025-05-17,Control Unit,Supplier D,Line 3,Afternoon,291,11,Leakage,Medium,34
+2025-05-17,Sensor Module,Supplier E,Line 2,Morning,368,13,Surface Finish,Medium,47
+2025-05-17,Hydraulic Valve,Supplier C,Line 2,Afternoon,280,12,Assembly,Low,26
+2025-05-19,Hydraulic Valve,Supplier D,Line 2,Afternoon,441,15,Assembly,Medium,27
+2025-05-20,Hydraulic Valve,Supplier B,Line 1,Afternoon,249,9,Electrical,Medium,44
+2025-05-22,Control Unit,Supplier D,Line 2,Afternoon,181,5,Electrical,Low,32
+2025-05-24,Hydraulic Valve,Supplier D,Line 2,Night,299,16,Leakage,Low,69
+2025-05-26,Pump Assembly,Supplier E,Line 3,Morning,429,13,Leakage,Low,58
+2025-05-27,Sensor Module,Supplier A,Line 1,Afternoon,127,3,Electrical,Medium,25
+2025-05-28,Hydraulic Valve,Supplier A,Line 3,Morning,396,13,Assembly,Low,67
+2025-05-29,Pump Assembly,Supplier E,Line 2,Night,212,4,Electrical,Medium,35
+2025-05-30,Sensor Module,Supplier A,Line 3,Afternoon,147,3,Dimensional,Medium,21
+2025-05-30,Hydraulic Valve,Supplier A,Line 2,Morning,319,9,Assembly,Low,40
+2025-05-30,Control Unit,Supplier E,Line 2,Afternoon,377,16,Dimensional,Low,84
+2025-05-30,Sensor Module,Supplier E,Line 1,Morning,209,10,Electrical,Low,38
+2025-05-31,Pump Assembly,Supplier E,Line 2,Afternoon,303,12,Leakage,Medium,53
+2025-06-01,Hydraulic Valve,Supplier E,Line 1,Night,434,15,Surface Finish,Low,62
+2025-06-01,Hydraulic Valve,Supplier C,Line 3,Morning,117,2,Surface Finish,Medium,30
+2025-06-02,Hydraulic Valve,Supplier C,Line 2,Night,336,11,Surface Finish,High,55
+2025-06-02,Control Unit,Supplier E,Line 2,Night,133,6,Dimensional,Low,26
+2025-06-02,Hydraulic Valve,Supplier C,Line 2,Morning,101,3,Dimensional,High,27
+2025-06-02,Sensor Module,Supplier D,Line 3,Afternoon,182,6,Surface Finish,Medium,39
+2025-06-05,Control Unit,Supplier E,Line 1,Morning,269,10,Assembly,High,51
+2025-06-06,Pump Assembly,Supplier B,Line 2,Afternoon,252,9,Assembly,Medium,27
+2025-06-07,Control Unit,Supplier B,Line 3,Night,389,17,Surface Finish,Medium,32
+2025-06-07,Hydraulic Valve,Supplier A,Line 3,Afternoon,498,18,Electrical,Low,91
+2025-06-08,Control Unit,Supplier A,Line 2,Morning,224,5,Surface Finish,Low,33
+2025-06-08,Sensor Module,Supplier A,Line 2,Night,376,10,Dimensional,Medium,48
+2025-06-08,Control Unit,Supplier A,Line 1,Afternoon,229,10,Assembly,High,42
+2025-06-08,Hydraulic Valve,Supplier C,Line 2,Afternoon,179,4,Electrical,Low,26
+2025-06-08,Hydraulic Valve,Supplier E,Line 3,Morning,108,4,Electrical,Low,16
+2025-06-08,Hydraulic Valve,Supplier C,Line 2,Afternoon,386,14,Electrical,High,45
+2025-06-09,Sensor Module,Supplier B,Line 3,Morning,425,25,Surface Finish,Low,42
+2025-06-09,Control Unit,Supplier B,Line 2,Afternoon,288,6,Leakage,Medium,24
+2025-06-10,Control Unit,Supplier B,Line 2,Afternoon,342,21,Surface Finish,Low,84
+2025-06-10,Control Unit,Supplier E,Line 2,Night,462,17,Leakage,Medium,89
+2025-06-10,Pump Assembly,Supplier B,Line 2,Afternoon,484,13,Electrical,Low,51
+2025-06-11,Hydraulic Valve,Supplier E,Line 1,Morning,456,21,Assembly,Low,102
+2025-06-11,Sensor Module,Supplier A,Line 2,Afternoon,254,11,Leakage,Medium,31
+2025-06-12,Sensor Module,Supplier C,Line 3,Night,386,10,Electrical,Low,41
+2025-06-12,Pump Assembly,Supplier D,Line 2,Night,479,11,Surface Finish,Medium,37
+2025-06-13,Hydraulic Valve,Supplier D,Line 2,Afternoon,495,23,Assembly,Medium,86
+2025-06-13,Control Unit,Supplier D,Line 1,Night,390,14,Assembly,Low,71
+2025-06-14,Sensor Module,Supplier B,Line 2,Night,393,10,Assembly,Low,51
+2025-06-14,Hydraulic Valve,Supplier E,Line 2,Night,486,15,Assembly,High,39
+2025-06-14,Control Unit,Supplier B,Line 1,Night,388,8,Leakage,Low,17
+2025-06-15,Hydraulic Valve,Supplier A,Line 3,Night,453,17,Leakage,Low,36
+2025-06-16,Control Unit,Supplier C,Line 3,Morning,92,2,Electrical,Medium,26
+2025-06-16,Pump Assembly,Supplier D,Line 2,Night,186,11,Assembly,Medium,47
+2025-06-16,Pump Assembly,Supplier D,Line 3,Morning,206,6,Dimensional,Low,19
+2025-06-17,Sensor Module,Supplier D,Line 3,Night,471,23,Leakage,Low,63
+2025-06-17,Hydraulic Valve,Supplier C,Line 2,Night,110,4,Dimensional,Medium,20
+2025-06-18,Pump Assembly,Supplier A,Line 1,Night,314,8,Surface Finish,Low,25
+2025-06-18,Sensor Module,Supplier D,Line 2,Night,251,7,Leakage,Low,22
+2025-06-18,Pump Assembly,Supplier D,Line 2,Afternoon,181,6,Electrical,Low,38
+2025-06-19,Control Unit,Supplier C,Line 3,Morning,434,9,Electrical,Low,44
+2025-06-20,Control Unit,Supplier A,Line 2,Night,230,3,Assembly,Low,22
+2025-06-20,Sensor Module,Supplier C,Line 3,Afternoon,110,3,Assembly,Low,25
+2025-06-20,Sensor Module,Supplier C,Line 1,Night,452,17,Surface Finish,High,50
+2025-06-21,Hydraulic Valve,Supplier C,Line 2,Night,338,13,Assembly,Medium,44
+2025-06-21,Sensor Module,Supplier B,Line 2,Afternoon,341,14,Dimensional,Low,51
+2025-06-21,Sensor Module,Supplier D,Line 1,Night,109,5,Dimensional,Low,28
+2025-06-22,Hydraulic Valve,Supplier A,Line 3,Morning,158,7,Leakage,Medium,41
+2025-06-22,Hydraulic Valve,Supplier A,Line 2,Night,459,17,Leakage,Medium,70
+2025-06-23,Control Unit,Supplier E,Line 3,Afternoon,365,0,Assembly,Low,8
+2025-06-23,Hydraulic Valve,Supplier A,Line 2,Night,394,9,Surface Finish,Medium,26
+2025-06-26,Pump Assembly,Supplier C,Line 2,Night,468,18,Surface Finish,Low,48
+2025-06-27,Pump Assembly,Supplier A,Line 1,Night,397,9,Surface Finish,High,35
+2025-06-28,Hydraulic Valve,Supplier A,Line 2,Morning,172,5,Electrical,Low,41
+2025-06-29,Hydraulic Valve,Supplier E,Line 1,Night,320,13,Assembly,Low,54
+2025-06-29,Control Unit,Supplier E,Line 3,Night,257,8,Surface Finish,Low,18
+2025-06-29,Pump Assembly,Supplier D,Line 3,Afternoon,121,6,Surface Finish,Low,32
+2025-06-30,Hydraulic Valve,Supplier B,Line 3,Morning,394,22,Surface Finish,Medium,87
+2025-06-30,Hydraulic Valve,Supplier D,Line 2,Morning,344,13,Dimensional,Medium,29
+2025-06-30,Sensor Module,Supplier B,Line 3,Night,403,14,Electrical,Low,54
+2025-07-01,Control Unit,Supplier A,Line 1,Night,394,10,Leakage,Low,46
+2025-07-01,Pump Assembly,Supplier A,Line 3,Night,411,5,Assembly,High,31
+2025-07-02,Control Unit,Supplier D,Line 3,Morning,228,12,Surface Finish,High,50
+2025-07-02,Pump Assembly,Supplier D,Line 2,Afternoon,151,6,Assembly,Medium,20
+2025-07-02,Hydraulic Valve,Supplier B,Line 1,Morning,270,10,Electrical,Low,32
+2025-07-02,Hydraulic Valve,Supplier C,Line 1,Night,245,5,Dimensional,Low,19
+2025-07-02,Sensor Module,Supplier B,Line 1,Afternoon,227,10,Leakage,Low,62
+2025-07-04,Pump Assembly,Supplier B,Line 3,Night,268,15,Leakage,Low,82
+2025-07-04,Sensor Module,Supplier A,Line 3,Afternoon,199,8,Surface Finish,Low,43
+2025-07-04,Hydraulic Valve,Supplier B,Line 1,Night,233,8,Dimensional,Low,50
+2025-07-04,Control Unit,Supplier D,Line 1,Night,361,2,Dimensional,Low,22
+2025-07-05,Pump Assembly,Supplier D,Line 2,Morning,466,17,Electrical,Low,64
+2025-07-07,Hydraulic Valve,Supplier D,Line 3,Night,340,14,Dimensional,Medium,32
+2025-07-07,Pump Assembly,Supplier B,Line 2,Morning,304,19,Surface Finish,Medium,38
+2025-07-08,Hydraulic Valve,Supplier B,Line 2,Night,209,7,Electrical,High,57
+2025-07-09,Control Unit,Supplier E,Line 2,Afternoon,395,9,Electrical,Medium,31
+2025-07-10,Hydraulic Valve,Supplier D,Line 2,Night,415,22,Assembly,Low,115
+2025-07-10,Control Unit,Supplier A,Line 1,Night,334,11,Assembly,High,61
+2025-07-11,Pump Assembly,Supplier A,Line 3,Afternoon,440,13,Dimensional,Low,54
+2025-07-12,Pump Assembly,Supplier B,Line 2,Morning,235,12,Leakage,Low,69
+2025-07-13,Pump Assembly,Supplier E,Line 1,Night,483,19,Dimensional,Medium,39
+2025-07-13,Control Unit,Supplier B,Line 2,Night,432,17,Surface Finish,Medium,70
+2025-07-14,Pump Assembly,Supplier B,Line 1,Morning,146,4,Surface Finish,Medium,19
+2025-07-15,Control Unit,Supplier D,Line 3,Morning,108,5,Electrical,Medium,42
+2025-07-17,Hydraulic Valve,Supplier B,Line 2,Night,153,4,Assembly,Medium,24
+2025-07-17,Pump Assembly,Supplier A,Line 3,Afternoon,302,14,Assembly,Low,46
+2025-07-18,Sensor Module,Supplier E,Line 1,Afternoon,129,7,Assembly,Medium,43
+2025-07-18,Hydraulic Valve,Supplier A,Line 3,Afternoon,160,3,Electrical,Low,21
+2025-07-19,Control Unit,Supplier D,Line 3,Morning,174,9,Assembly,Medium,59
+2025-07-19,Sensor Module,Supplier D,Line 3,Afternoon,338,11,Leakage,Low,51
+2025-07-19,Control Unit,Supplier C,Line 2,Night,390,11,Electrical,Low,57
+2025-07-19,Control Unit,Supplier B,Line 3,Afternoon,417,17,Dimensional,Medium,34
+2025-07-22,Control Unit,Supplier C,Line 3,Night,274,3,Dimensional,Medium,31
+2025-07-22,Sensor Module,Supplier A,Line 1,Morning,126,2,Leakage,High,22
+2025-07-22,Hydraulic Valve,Supplier A,Line 3,Afternoon,104,4,Leakage,Low,34
+2025-07-22,Hydraulic Valve,Supplier A,Line 1,Morning,136,4,Electrical,Low,30
+2025-07-22,Hydraulic Valve,Supplier D,Line 1,Afternoon,444,24,Leakage,Low,86
+2025-07-22,Sensor Module,Supplier B,Line 2,Morning,466,19,Surface Finish,Low,71
+2025-07-23,Pump Assembly,Supplier C,Line 3,Morning,498,23,Electrical,Low,43
+2025-07-24,Sensor Module,Supplier E,Line 1,Night,114,5,Surface Finish,Medium,26
+2025-07-26,Pump Assembly,Supplier D,Line 1,Afternoon,166,6,Electrical,Medium,36
+2025-07-26,Sensor Module,Supplier A,Line 3,Morning,231,9,Leakage,Medium,55
+2025-07-26,Sensor Module,Supplier A,Line 1,Night,454,13,Assembly,Medium,31
+2025-07-27,Hydraulic Valve,Supplier C,Line 3,Night,289,7,Dimensional,Low,32
+2025-07-27,Hydraulic Valve,Supplier B,Line 3,Morning,203,8,Electrical,Low,46
+2025-07-28,Pump Assembly,Supplier D,Line 2,Morning,164,4,Leakage,High,36
+2025-07-28,Hydraulic Valve,Supplier A,Line 2,Night,183,2,Dimensional,Low,25
+2025-07-29,Hydraulic Valve,Supplier A,Line 1,Afternoon,292,11,Dimensional,Low,46
+2025-07-30,Control Unit,Supplier C,Line 3,Night,116,5,Leakage,Low,33
+2025-07-31,Sensor Module,Supplier E,Line 1,Night,239,6,Surface Finish,Medium,21
+2025-07-31,Hydraulic Valve,Supplier E,Line 1,Afternoon,222,8,Leakage,Low,46
+2025-08-01,Control Unit,Supplier C,Line 2,Night,350,11,Surface Finish,Low,57
+2025-08-01,Sensor Module,Supplier C,Line 3,Morning,241,14,Assembly,Medium,43
+2025-08-02,Control Unit,Supplier E,Line 2,Night,167,4,Surface Finish,Low,30
+2025-08-03,Pump Assembly,Supplier C,Line 1,Morning,252,8,Surface Finish,Medium,41
+2025-08-04,Pump Assembly,Supplier C,Line 3,Morning,493,19,Dimensional,Low,93
+2025-08-04,Control Unit,Supplier D,Line 2,Afternoon,451,19,Surface Finish,High,68
+2025-08-05,Hydraulic Valve,Supplier D,Line 2,Morning,468,11,Electrical,Medium,28
+2025-08-06,Control Unit,Supplier B,Line 3,Night,424,22,Leakage,Medium,40
+2025-08-06,Hydraulic Valve,Supplier D,Line 1,Morning,188,5,Surface Finish,Low,26
+2025-08-07,Pump Assembly,Supplier B,Line 2,Morning,159,6,Surface Finish,Low,32
+2025-08-07,Control Unit,Supplier A,Line 1,Morning,240,15,Electrical,Medium,62
+2025-08-09,Hydraulic Valve,Supplier B,Line 1,Night,324,5,Leakage,High,30
+2025-08-09,Hydraulic Valve,Supplier D,Line 3,Afternoon,393,10,Assembly,Medium,33
+2025-08-10,Control Unit,Supplier B,Line 2,Morning,362,24,Surface Finish,Medium,63
+2025-08-10,Control Unit,Supplier C,Line 1,Night,378,5,Assembly,High,32
+2025-08-12,Pump Assembly,Supplier B,Line 1,Morning,136,3,Dimensional,Low,33
+2025-08-13,Sensor Module,Supplier C,Line 1,Afternoon,411,8,Surface Finish,High,43
+2025-08-15,Hydraulic Valve,Supplier E,Line 2,Night,121,6,Electrical,Low,27
+2025-08-17,Sensor Module,Supplier C,Line 3,Morning,96,3,Leakage,Low,32
+2025-08-18,Hydraulic Valve,Supplier B,Line 2,Morning,386,13,Dimensional,Low,61
+2025-08-18,Pump Assembly,Supplier D,Line 2,Afternoon,222,8,Assembly,Low,53
+2025-08-18,Hydraulic Valve,Supplier B,Line 2,Night,199,3,Dimensional,Medium,21
+2025-08-19,Control Unit,Supplier C,Line 2,Night,366,8,Leakage,Low,49
+2025-08-19,Sensor Module,Supplier C,Line 1,Afternoon,163,4,Electrical,Low,30
+2025-08-20,Sensor Module,Supplier D,Line 3,Afternoon,93,3,Electrical,Low,22
+2025-08-20,Sensor Module,Supplier E,Line 2,Afternoon,413,8,Leakage,Low,22
+2025-08-20,Hydraulic Valve,Supplier A,Line 2,Afternoon,205,5,Assembly,Low,26
+2025-08-20,Control Unit,Supplier D,Line 1,Night,307,9,Assembly,Low,33
+2025-08-21,Pump Assembly,Supplier D,Line 1,Night,157,5,Leakage,Medium,22
+2025-08-23,Pump Assembly,Supplier D,Line 2,Afternoon,341,14,Assembly,Low,34
+2025-08-23,Hydraulic Valve,Supplier A,Line 3,Night,397,16,Leakage,Medium,52
+2025-08-24,Control Unit,Supplier E,Line 2,Night,343,1,Surface Finish,Medium,21
+2025-08-26,Pump Assembly,Supplier A,Line 3,Afternoon,349,17,Leakage,Low,26
+2025-08-26,Sensor Module,Supplier D,Line 2,Night,298,10,Dimensional,Low,41
+2025-08-27,Hydraulic Valve,Supplier E,Line 1,Afternoon,278,4,Electrical,Low,20
+2025-08-27,Pump Assembly,Supplier C,Line 3,Afternoon,471,15,Surface Finish,Medium,63
+2025-08-29,Control Unit,Supplier B,Line 2,Night,436,8,Assembly,Low,29
+2025-08-30,Hydraulic Valve,Supplier D,Line 3,Morning,179,11,Electrical,Low,67
+2025-08-30,Control Unit,Supplier D,Line 1,Afternoon,180,8,Electrical,Low,56
+2025-08-30,Pump Assembly,Supplier E,Line 2,Morning,379,13,Assembly,Low,74
+2025-08-30,Hydraulic Valve,Supplier C,Line 1,Night,436,16,Electrical,Low,44
+2025-08-31,Pump Assembly,Supplier C,Line 2,Night,233,10,Electrical,Low,34
+2025-08-31,Sensor Module,Supplier A,Line 2,Night,235,9,Leakage,Low,44
+2025-08-31,Hydraulic Valve,Supplier E,Line 2,Morning,454,13,Leakage,Low,42
+2025-08-31,Control Unit,Supplier B,Line 3,Night,252,7,Assembly,Low,21
+2025-09-01,Hydraulic Valve,Supplier C,Line 1,Night,500,24,Dimensional,Medium,44
+2025-09-01,Control Unit,Supplier B,Line 1,Night,296,12,Assembly,Medium,63
+2025-09-02,Hydraulic Valve,Supplier B,Line 2,Night,488,22,Electrical,Low,65
+2025-09-02,Control Unit,Supplier A,Line 1,Night,268,10,Leakage,Low,22
+2025-09-03,Control Unit,Supplier D,Line 1,Afternoon,249,11,Assembly,Low,24
+2025-09-05,Control Unit,Supplier C,Line 3,Night,151,1,Electrical,High,18
+2025-09-05,Hydraulic Valve,Supplier B,Line 1,Morning,253,9,Assembly,Low,50
+2025-09-05,Hydraulic Valve,Supplier D,Line 1,Night,152,6,Leakage,Low,16
+2025-09-06,Sensor Module,Supplier C,Line 2,Afternoon,348,19,Leakage,Medium,33
+2025-09-07,Control Unit,Supplier D,Line 1,Afternoon,195,9,Electrical,Low,33
+2025-09-07,Hydraulic Valve,Supplier E,Line 3,Morning,212,8,Electrical,Medium,44
+2025-09-07,Control Unit,Supplier C,Line 1,Morning,81,2,Electrical,Low,20
+2025-09-08,Hydraulic Valve,Supplier C,Line 1,Afternoon,324,10,Dimensional,Medium,54
+2025-09-09,Pump Assembly,Supplier E,Line 3,Afternoon,270,8,Assembly,Low,38
+2025-09-11,Pump Assembly,Supplier A,Line 3,Morning,411,17,Assembly,Low,90
+2025-09-12,Pump Assembly,Supplier D,Line 2,Afternoon,104,2,Surface Finish,Low,21
+2025-09-12,Control Unit,Supplier C,Line 3,Night,258,5,Assembly,Low,36
+2025-09-12,Hydraulic Valve,Supplier C,Line 3,Afternoon,498,13,Assembly,Low,34
+2025-09-13,Pump Assembly,Supplier C,Line 2,Night,138,5,Dimensional,Low,24
+2025-09-13,Sensor Module,Supplier A,Line 2,Night,231,11,Surface Finish,Low,35
+2025-09-13,Sensor Module,Supplier E,Line 1,Night,218,6,Leakage,Medium,29
+2025-09-14,Hydraulic Valve,Supplier D,Line 1,Morning,406,18,Assembly,Low,88
+2025-09-15,Sensor Module,Supplier E,Line 1,Night,179,5,Surface Finish,Medium,22
+2025-09-16,Hydraulic Valve,Supplier C,Line 3,Night,389,9,Assembly,Medium,43
+2025-09-19,Pump Assembly,Supplier E,Line 2,Afternoon,286,10,Assembly,Low,43
+2025-09-19,Sensor Module,Supplier B,Line 3,Morning,196,7,Electrical,Medium,49
+2025-09-19,Pump Assembly,Supplier E,Line 1,Afternoon,338,16,Dimensional,Low,36
+2025-09-19,Pump Assembly,Supplier E,Line 1,Morning,206,6,Assembly,Low,41
+2025-09-20,Sensor Module,Supplier D,Line 1,Night,221,10,Surface Finish,Low,47
+2025-09-20,Hydraulic Valve,Supplier E,Line 1,Morning,320,11,Dimensional,Low,63
+2025-09-21,Hydraulic Valve,Supplier B,Line 2,Afternoon,225,5,Surface Finish,High,24
+2025-09-21,Hydraulic Valve,Supplier A,Line 3,Night,336,10,Electrical,Medium,51
+2025-09-22,Control Unit,Supplier A,Line 1,Afternoon,255,9,Dimensional,Medium,35
+2025-09-23,Pump Assembly,Supplier C,Line 3,Morning,248,8,Assembly,Medium,43
+2025-09-24,Control Unit,Supplier E,Line 2,Afternoon,346,10,Dimensional,Medium,26
+2025-09-26,Sensor Module,Supplier A,Line 2,Afternoon,292,11,Surface Finish,Medium,30
+2025-09-26,Hydraulic Valve,Supplier D,Line 3,Morning,99,7,Leakage,Medium,42
+2025-09-26,Pump Assembly,Supplier D,Line 1,Morning,316,11,Leakage,Medium,40
+2025-09-26,Control Unit,Supplier C,Line 1,Afternoon,376,12,Leakage,High,63
+2025-09-27,Hydraulic Valve,Supplier B,Line 1,Morning,174,8,Assembly,Medium,54
+2025-09-27,Hydraulic Valve,Supplier A,Line 3,Afternoon,404,24,Surface Finish,Low,115
+2025-09-29,Pump Assembly,Supplier C,Line 2,Afternoon,243,6,Dimensional,Low,25
+2025-09-29,Hydraulic Valve,Supplier B,Line 1,Night,209,10,Leakage,Low,57
+2025-09-30,Hydraulic Valve,Supplier A,Line 1,Morning,323,4,Leakage,Low,34
+2025-09-30,Pump Assembly,Supplier C,Line 3,Afternoon,325,7,Electrical,Low,31
+2025-09-30,Hydraulic Valve,Supplier B,Line 3,Afternoon,186,10,Electrical,Low,45
+2025-10-01,Pump Assembly,Supplier B,Line 2,Morning,302,13,Surface Finish,Low,65
+2025-10-01,Hydraulic Valve,Supplier A,Line 3,Morning,445,8,Surface Finish,Low,50
+2025-10-02,Pump Assembly,Supplier B,Line 2,Night,236,13,Dimensional,Low,44
+2025-10-04,Control Unit,Supplier D,Line 2,Morning,81,3,Leakage,Low,36
+2025-10-04,Sensor Module,Supplier A,Line 1,Morning,202,6,Electrical,Low,42
+2025-10-04,Pump Assembly,Supplier C,Line 2,Night,403,14,Surface Finish,Low,49
+2025-10-05,Control Unit,Supplier A,Line 3,Afternoon,432,15,Electrical,Medium,34
+2025-10-05,Pump Assembly,Supplier C,Line 2,Morning,390,10,Dimensional,Medium,40
+2025-10-06,Pump Assembly,Supplier C,Line 2,Morning,500,14,Dimensional,Medium,41
+2025-10-07,Sensor Module,Supplier A,Line 3,Night,462,5,Surface Finish,Medium,35
+2025-10-07,Control Unit,Supplier E,Line 1,Afternoon,266,7,Surface Finish,Medium,28
+2025-10-07,Hydraulic Valve,Supplier A,Line 1,Morning,332,10,Dimensional,Low,62
+2025-10-08,Hydraulic Valve,Supplier A,Line 2,Morning,177,2,Assembly,Low,26
+2025-10-08,Hydraulic Valve,Supplier D,Line 1,Afternoon,94,4,Leakage,Low,33
+2025-10-09,Pump Assembly,Supplier E,Line 3,Night,129,8,Surface Finish,Low,46
+2025-10-09,Hydraulic Valve,Supplier D,Line 3,Night,261,12,Dimensional,High,69
+2025-10-10,Hydraulic Valve,Supplier C,Line 2,Morning,362,7,Dimensional,Low,54
+2025-10-11,Pump Assembly,Supplier A,Line 2,Afternoon,466,20,Assembly,Low,75
+2025-10-12,Control Unit,Supplier E,Line 3,Morning,401,11,Surface Finish,High,43
+2025-10-12,Hydraulic Valve,Supplier B,Line 2,Afternoon,442,24,Electrical,High,69
+2025-10-12,Hydraulic Valve,Supplier D,Line 3,Night,179,7,Surface Finish,Low,26
+2025-10-12,Hydraulic Valve,Supplier B,Line 2,Afternoon,313,8,Electrical,Medium,54
+2025-10-12,Hydraulic Valve,Supplier A,Line 1,Morning,378,15,Surface Finish,Low,59
+2025-10-13,Sensor Module,Supplier D,Line 2,Morning,237,9,Leakage,Low,56
+2025-10-13,Control Unit,Supplier C,Line 3,Night,183,6,Leakage,High,29
+2025-10-14,Sensor Module,Supplier C,Line 2,Morning,170,3,Dimensional,High,23
+2025-10-14,Pump Assembly,Supplier A,Line 2,Afternoon,273,5,Dimensional,Medium,28
+2025-10-14,Control Unit,Supplier A,Line 2,Night,447,12,Assembly,Low,28
+2025-10-15,Control Unit,Supplier D,Line 3,Afternoon,139,7,Dimensional,Low,28
+2025-10-15,Sensor Module,Supplier B,Line 1,Morning,207,12,Electrical,Low,41
+2025-10-15,Hydraulic Valve,Supplier A,Line 1,Night,224,10,Electrical,Low,44
+2025-10-17,Pump Assembly,Supplier D,Line 2,Morning,150,6,Dimensional,High,31
+2025-10-17,Hydraulic Valve,Supplier E,Line 2,Night,263,7,Dimensional,Low,45
+2025-10-18,Hydraulic Valve,Supplier A,Line 3,Morning,379,10,Assembly,Low,42
+2025-10-18,Control Unit,Supplier D,Line 1,Afternoon,177,9,Leakage,Low,47
+2025-10-18,Control Unit,Supplier A,Line 3,Morning,258,14,Assembly,Medium,75
+2025-10-18,Sensor Module,Supplier B,Line 1,Night,375,10,Surface Finish,Low,32
+2025-10-20,Pump Assembly,Supplier C,Line 2,Night,126,3,Assembly,Low,37
+2025-10-20,Sensor Module,Supplier D,Line 2,Morning,202,8,Leakage,Low,41
+2025-10-21,Hydraulic Valve,Supplier E,Line 3,Morning,451,5,Assembly,Medium,37
+2025-10-21,Hydraulic Valve,Supplier B,Line 1,Morning,245,9,Dimensional,High,65
+2025-10-21,Hydraulic Valve,Supplier C,Line 1,Night,265,8,Leakage,Low,44
+2025-10-21,Control Unit,Supplier B,Line 3,Night,394,26,Electrical,Low,44
+2025-10-21,Control Unit,Supplier D,Line 3,Afternoon,86,2,Surface Finish,Low,29
+2025-10-22,Sensor Module,Supplier E,Line 3,Night,249,10,Assembly,Medium,25
+2025-10-23,Sensor Module,Supplier D,Line 3,Afternoon,323,11,Surface Finish,Low,62
+2025-10-23,Hydraulic Valve,Supplier D,Line 1,Afternoon,175,7,Electrical,Low,22
+2025-10-25,Control Unit,Supplier D,Line 2,Afternoon,249,4,Leakage,Low,37
+2025-10-26,Control Unit,Supplier A,Line 1,Night,139,6,Assembly,Low,40
+2025-10-27,Hydraulic Valve,Supplier A,Line 2,Night,496,10,Electrical,Low,55
+2025-10-28,Pump Assembly,Supplier E,Line 2,Morning,394,16,Dimensional,Low,32
+2025-10-29,Control Unit,Supplier D,Line 2,Night,151,8,Surface Finish,Medium,44
+2025-10-29,Control Unit,Supplier D,Line 3,Morning,191,6,Dimensional,Low,43
+2025-10-29,Hydraulic Valve,Supplier E,Line 1,Morning,167,7,Leakage,Medium,35
+2025-10-30,Sensor Module,Supplier B,Line 1,Afternoon,183,6,Electrical,Low,38
+2025-10-30,Pump Assembly,Supplier B,Line 1,Morning,437,19,Surface Finish,Medium,34
+2025-10-30,Sensor Module,Supplier D,Line 3,Night,475,20,Surface Finish,Medium,56
+2025-10-30,Control Unit,Supplier B,Line 3,Night,145,3,Assembly,Low,26
+2025-10-31,Sensor Module,Supplier B,Line 1,Night,390,13,Leakage,High,43
+2025-10-31,Pump Assembly,Supplier C,Line 3,Afternoon,233,10,Assembly,Low,24
+2025-10-31,Pump Assembly,Supplier E,Line 1,Morning,181,5,Electrical,Low,40
+2025-10-31,Sensor Module,Supplier C,Line 2,Morning,276,9,Electrical,Low,58
+2025-10-31,Hydraulic Valve,Supplier C,Line 3,Afternoon,95,2,Electrical,Medium,22
+2025-11-01,Control Unit,Supplier C,Line 1,Afternoon,402,18,Assembly,Low,83
+2025-11-02,Hydraulic Valve,Supplier E,Line 3,Night,353,8,Dimensional,Low,36
+2025-11-03,Sensor Module,Supplier C,Line 2,Morning,134,3,Leakage,Low,17
+2025-11-03,Hydraulic Valve,Supplier A,Line 1,Morning,331,13,Electrical,Low,45
+2025-11-03,Hydraulic Valve,Supplier A,Line 3,Night,434,15,Electrical,Low,33
+2025-11-04,Control Unit,Supplier E,Line 2,Afternoon,463,14,Surface Finish,Low,73
+2025-11-04,Control Unit,Supplier E,Line 3,Afternoon,382,16,Assembly,Medium,90
+2025-11-05,Hydraulic Valve,Supplier E,Line 1,Afternoon,494,17,Surface Finish,Medium,36
+2025-11-06,Control Unit,Supplier B,Line 2,Night,310,19,Surface Finish,Low,50
+2025-11-07,Control Unit,Supplier E,Line 1,Morning,169,11,Electrical,Medium,46
+2025-11-07,Pump Assembly,Supplier B,Line 2,Night,276,10,Surface Finish,Low,23
+2025-11-08,Control Unit,Supplier A,Line 2,Night,312,13,Dimensional,Low,50
+2025-11-09,Hydraulic Valve,Supplier E,Line 2,Morning,380,13,Leakage,Low,40
+2025-11-09,Control Unit,Supplier B,Line 1,Morning,265,15,Leakage,Medium,37
+2025-11-09,Control Unit,Supplier A,Line 3,Afternoon,169,4,Electrical,High,30
+2025-11-10,Hydraulic Valve,Supplier E,Line 2,Afternoon,417,12,Dimensional,Low,46
+2025-11-10,Pump Assembly,Supplier A,Line 3,Morning,236,6,Surface Finish,Low,50
+2025-11-12,Hydraulic Valve,Supplier E,Line 2,Morning,282,6,Assembly,Low,48
+2025-11-13,Control Unit,Supplier E,Line 2,Morning,164,1,Dimensional,Low,19
+2025-11-13,Pump Assembly,Supplier B,Line 2,Afternoon,347,14,Surface Finish,Low,42
+2025-11-16,Pump Assembly,Supplier E,Line 3,Afternoon,414,9,Dimensional,Low,51
+2025-11-16,Sensor Module,Supplier B,Line 2,Morning,225,11,Leakage,High,58
+2025-11-18,Sensor Module,Supplier A,Line 2,Night,151,7,Electrical,Low,25
+2025-11-20,Control Unit,Supplier B,Line 2,Morning,363,25,Assembly,Low,37
+2025-11-21,Hydraulic Valve,Supplier C,Line 2,Night,121,4,Assembly,Low,20
+2025-11-21,Hydraulic Valve,Supplier D,Line 3,Night,408,22,Dimensional,High,103
+2025-11-22,Hydraulic Valve,Supplier C,Line 2,Night,400,13,Electrical,Low,62
+2025-11-22,Hydraulic Valve,Supplier D,Line 2,Night,449,20,Surface Finish,Medium,96
+2025-11-22,Sensor Module,Supplier B,Line 2,Morning,393,17,Assembly,Low,61
+2025-11-22,Control Unit,Supplier C,Line 1,Night,201,5,Leakage,High,28
+2025-11-23,Control Unit,Supplier E,Line 1,Night,451,15,Leakage,Medium,77
+2025-11-23,Hydraulic Valve,Supplier E,Line 1,Night,425,17,Leakage,Medium,32
+2025-11-24,Hydraulic Valve,Supplier A,Line 2,Morning,463,17,Surface Finish,Low,33
+2025-11-24,Control Unit,Supplier A,Line 3,Afternoon,195,3,Assembly,Low,22
+2025-11-25,Control Unit,Supplier A,Line 3,Morning,170,9,Leakage,Low,44
+2025-11-26,Sensor Module,Supplier A,Line 2,Afternoon,204,11,Dimensional,Medium,26
+2025-11-26,Sensor Module,Supplier C,Line 3,Night,262,2,Dimensional,Low,28
+2025-11-27,Control Unit,Supplier A,Line 1,Afternoon,429,18,Leakage,Medium,53
+2025-11-27,Control Unit,Supplier B,Line 1,Morning,306,6,Electrical,Low,38
+2025-11-28,Sensor Module,Supplier A,Line 1,Afternoon,464,15,Surface Finish,Medium,32
+2025-12-01,Sensor Module,Supplier A,Line 1,Night,158,6,Surface Finish,Medium,31
+2025-12-01,Control Unit,Supplier A,Line 1,Night,162,7,Electrical,Medium,23
+2025-12-01,Pump Assembly,Supplier D,Line 2,Morning,349,15,Leakage,Low,79
+2025-12-03,Hydraulic Valve,Supplier A,Line 2,Morning,130,6,Surface Finish,Medium,37
+2025-12-03,Sensor Module,Supplier D,Line 2,Night,184,9,Assembly,Low,36
+2025-12-04,Pump Assembly,Supplier E,Line 2,Night,171,1,Electrical,High,19
+2025-12-04,Pump Assembly,Supplier E,Line 2,Morning,351,11,Surface Finish,Low,59
+2025-12-04,Control Unit,Supplier D,Line 2,Afternoon,442,17,Dimensional,Low,56
+2025-12-04,Pump Assembly,Supplier C,Line 2,Night,103,4,Surface Finish,Low,21
+2025-12-04,Control Unit,Supplier B,Line 2,Morning,136,6,Dimensional,Low,41
+2025-12-05,Pump Assembly,Supplier B,Line 3,Afternoon,357,15,Surface Finish,Low,36
+2025-12-05,Control Unit,Supplier B,Line 3,Night,131,4,Assembly,Medium,22
+2025-12-05,Pump Assembly,Supplier E,Line 3,Night,163,7,Electrical,Medium,39
+2025-12-05,Pump Assembly,Supplier E,Line 2,Night,297,12,Assembly,Low,49
+2025-12-07,Control Unit,Supplier E,Line 1,Morning,444,15,Surface Finish,Medium,67
+2025-12-07,Hydraulic Valve,Supplier B,Line 1,Afternoon,125,4,Dimensional,Low,18
+2025-12-08,Hydraulic Valve,Supplier B,Line 3,Night,411,18,Assembly,High,72
+2025-12-08,Pump Assembly,Supplier B,Line 3,Afternoon,357,20,Assembly,Low,77
+2025-12-08,Pump Assembly,Supplier E,Line 3,Afternoon,134,4,Leakage,Low,30
+2025-12-09,Hydraulic Valve,Supplier C,Line 2,Afternoon,187,3,Electrical,Low,35
+2025-12-09,Control Unit,Supplier D,Line 2,Night,277,17,Assembly,Low,77
+2025-12-09,Pump Assembly,Supplier D,Line 2,Morning,174,4,Surface Finish,Low,35
+2025-12-10,Control Unit,Supplier B,Line 2,Morning,264,10,Surface Finish,Medium,55
+2025-12-12,Hydraulic Valve,Supplier D,Line 3,Afternoon,484,26,Surface Finish,Medium,72
+2025-12-13,Control Unit,Supplier A,Line 2,Morning,416,22,Electrical,Medium,106
+2025-12-14,Sensor Module,Supplier C,Line 2,Night,445,18,Dimensional,High,76
+2025-12-15,Pump Assembly,Supplier A,Line 2,Morning,317,15,Surface Finish,Medium,61
+2025-12-15,Pump Assembly,Supplier E,Line 3,Afternoon,180,4,Electrical,Medium,25
+2025-12-16,Control Unit,Supplier B,Line 1,Morning,249,14,Dimensional,Low,75
+2025-12-17,Control Unit,Supplier D,Line 1,Night,391,16,Surface Finish,Medium,49
+2025-12-17,Hydraulic Valve,Supplier B,Line 2,Afternoon,190,5,Dimensional,Medium,21
+2025-12-17,Hydraulic Valve,Supplier C,Line 1,Night,279,10,Dimensional,Low,28
+2025-12-18,Control Unit,Supplier C,Line 2,Morning,300,12,Electrical,High,67
+2025-12-18,Sensor Module,Supplier C,Line 3,Morning,210,8,Assembly,Low,44
+2025-12-18,Pump Assembly,Supplier B,Line 2,Afternoon,191,10,Leakage,Medium,32
+2025-12-19,Hydraulic Valve,Supplier A,Line 1,Morning,395,14,Electrical,Medium,69
+2025-12-20,Control Unit,Supplier C,Line 3,Night,339,6,Dimensional,Low,28
+2025-12-20,Hydraulic Valve,Supplier B,Line 2,Afternoon,133,2,Dimensional,Low,19
+2025-12-20,Sensor Module,Supplier A,Line 1,Afternoon,422,11,Leakage,Low,45
+2025-12-20,Sensor Module,Supplier D,Line 3,Morning,490,22,Electrical,High,65
+2025-12-21,Sensor Module,Supplier B,Line 1,Night,494,17,Dimensional,Low,80
+2025-12-21,Control Unit,Supplier D,Line 3,Morning,451,15,Assembly,Medium,77
+2025-12-22,Sensor Module,Supplier D,Line 3,Night,262,11,Electrical,Low,65
+2025-12-22,Hydraulic Valve,Supplier B,Line 2,Afternoon,479,20,Surface Finish,Low,100
+2025-12-23,Pump Assembly,Supplier D,Line 1,Afternoon,292,8,Leakage,Low,48
+2025-12-24,Hydraulic Valve,Supplier B,Line 3,Afternoon,319,16,Assembly,Medium,66
+2025-12-25,Sensor Module,Supplier A,Line 1,Night,287,12,Leakage,Medium,55
+2025-12-26,Hydraulic Valve,Supplier B,Line 1,Afternoon,254,11,Surface Finish,Low,42
+2025-12-28,Control Unit,Supplier C,Line 1,Afternoon,301,6,Leakage,Low,24
+2025-12-28,Hydraulic Valve,Supplier A,Line 1,Night,333,15,Electrical,Low,36
+2025-12-29,Hydraulic Valve,Supplier B,Line 3,Afternoon,401,22,Assembly,Medium,102
+2025-12-29,Pump Assembly,Supplier C,Line 3,Night,265,11,Leakage,Low,51
+2025-12-30,Hydraulic Valve,Supplier B,Line 1,Afternoon,488,19,Assembly,High,70
+2025-12-30,Control Unit,Supplier E,Line 2,Night,129,6,Assembly,Low,25
+2025-12-31,Hydraulic Valve,Supplier B,Line 3,Afternoon,422,13,Assembly,High,35
